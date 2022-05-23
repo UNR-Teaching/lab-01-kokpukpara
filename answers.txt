@@ -1,0 +1,8 @@
+What do you think the > in the previous statement did when combined with the ls command?
+* I believe it printed the directory contents into the newfile.txt file.
+
+What does it say about newfile.txt?
+* It says it is now in the repository.
+
+What does this command tell you about your files and their contents?
+* It notified me that there have been changes to the file since I last added it to the GitHub repository.
